@@ -2,15 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jesusrojasn/count.svg?"  />
-</div>
-
-###
-
-<p align="center">- 📚 Actualmente estoy estudiando en **Generación Chile**<br><br>- 🌱 Actualmente estoy mejorando **mis habilidades**<br><br>- ⚡ Dato curioso **Me encantan las galletas**</p>
+<p align="center">- 📚 Actualmente estoy estudiando en <b>Generación Chile</b><br><br>- 🌱 Actualmente estoy mejorando <b>mis habilidades</b></p>
 
 ###
 
